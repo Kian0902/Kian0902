@@ -10,7 +10,7 @@
 
 ## 🔧 Tech Stack
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50"><img src="https://commons.wikimedia.org/wiki/File:Tensorflow_logo.svg" width="50" height="50">
 
 
 <!--## 🔝 Top Languages-->

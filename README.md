@@ -5,7 +5,7 @@
 - 👨‍💼 Interested in satellite, radar and rocket data with an AI twist
 - 💼 University of Saskatchewan graduate assistant researcher 2023
 - 📩 Contact: kian0902@hotmail.com
-- 🧠 Currently writing my Master's Thesis regarding deep learning in radar measurements
+- 🧠 Currently writing my Master's Thesis regarding the use of deep learning methods on radar measurements
 
 
 ## 🔧 Tech Stack

@@ -1,9 +1,9 @@
 # ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Kian Sartipzadeh
 
-
+- 🚀 Co-Founder/CTO of Simplera AS.
 - 🎓 Master of Technology with specialization in Space Physics and ML, from UiT: The Arctic Norwegian University of Tromsø.
-- 🚀 Interested in satellite, rocket and radar data with an AI twist.
-- 💼 Graduate R & D Scientist at UiT.
+- 🛰️ Interested in satellite, rocket and radar data with an AI twist.
+- 💼 Former Graduate R & D Scientist at UiT.
 - 📑 Co-Author of scientific paper published in the 'Space Weather' journal.  doi: https://doi.org/10.1029/2023SW003748
 - 📩 Contact: kian0902@hotmail.com
 - 🧠 Currently writing an AGU paper regarding the use of Multi-Modal Neural Networks for space weather prediction.

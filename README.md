@@ -1,6 +1,6 @@
 # ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Kian Sartipzadeh
 
-- 🚀 Co-Founder/CTO of Simplera AS.
+- 🚀 Co-Founder/CTO of [Simplera AS](https://www.simplera.no/).
 - 🎓 Master of Technology with specialization in Space Physics and ML, from UiT: The Arctic Norwegian University of Tromsø.
 - 🛰️ Interested in satellite, rocket and radar data with an AI twist.
 - 💼 Former Graduate R & D Scientist at UiT.

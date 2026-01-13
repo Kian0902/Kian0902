@@ -13,14 +13,14 @@
 ## 🔧 Tech Stack
 
 <p>
-  <img src="https://cdn.simpleicons.org/C" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50">
   <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50">&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="50" height="50">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/langchain/white" width="60" height="60">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n" width="60" height="60">
+  <img src="https://cdn.simpleicons.org/n8n" width="60" height="60">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/C" width="50" height="50">
 </p>
 
 

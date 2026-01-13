@@ -19,8 +19,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="50" height="50">
   <img src="https://cdn.simpleicons.org/langchain/white" width="50" height="50">
   <img src="https://cdn.simpleicons.org/n8n" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_white.png" width="100" height="50">
 </p>
 
 

@@ -2,11 +2,10 @@
 
 - 🚀 Co-Founder/CTO of [Simplera AS](https://www.simplera.no/).
 - 🎓 Master of Technology in Space Physics from [The Arctic Norwegian University of Tromsø](https://en.uit.no/startsida).
-- 🛰️ Interested in satellite, rocket and radar data with an AI twist.
+- 🤖 Interested in GenAI, DL, ML and Pattern recognition. 
 - 💼 Former Graduate R & D Scientist at UiT.
-- 📑 Co-Author of scientific paper published in the 'Space Weather' journal.  doi: https://doi.org/10.1029/2023SW003748
+- 📑 Author of a paper combining DL and Space Physics TBP in the EGU Copernicus journal.  doi: [https://doi.org/10.5194/egusphere-2025-3070](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3070/)
 - 📩 Contact: kian0902@hotmail.com
-- 🧠 Currently writing an AGU paper regarding the use of Multi-Modal Neural Networks for space weather prediction.
 
 
 ## 🔧 Tech Stack

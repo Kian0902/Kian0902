@@ -1,6 +1,7 @@
 # ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Kian Sartipzadeh
 
 - 🚀 Co-Founder/CTO of [Simplera AS](https://www.simplera.no/).
+- ⚙️ Developing Agentic-AI models for Simplera AS.  
 - 🎓 Graduated Master of Technology in Space Physics from [UiT The Arctic University of Norway](https://en.uit.no/startsida).
 - 🧠 Currently enrolled in the [Master’s program in Artificial Intelligence](https://uit.no/utdanning/program/711597/kunstig_intelligens_sivilingenior_-_master) at UiT The Arctic University of Norway
 - 🤖 Interested in GenAI, DL, ML and Pattern recognition. 
@@ -12,6 +13,7 @@
 ## 🔧 Tech Stack
 
 <p>
+  <img src="https://cdn.simpleicons.org/C" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50">
@@ -21,9 +23,6 @@
   <img src="https://cdn.simpleicons.org/n8n" width="60" height="60">
 </p>
 
-
-
-<!--## 🔝 Top Languages-->
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyvan0111&layout=compact&theme=dark&langs_count=10)-->
 

@@ -1,10 +1,11 @@
 # ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Kian Sartipzadeh
 
 - 🚀 Co-Founder/CTO of [Simplera AS](https://www.simplera.no/).
-- 🎓 Master of Technology in Space Physics from [The Arctic Norwegian University of Tromsø](https://en.uit.no/startsida).
+- 🎓 Graduated Master of Technology in Space Physics from [UiT The Arctic University of Norway](https://en.uit.no/startsida).
+- 🧠 Currently enrolled in the [Master’s program in Artificial Intelligence](https://uit.no/utdanning/program/711597/kunstig_intelligens_sivilingenior_-_master) at UiT The Arctic University of Norway
 - 🤖 Interested in GenAI, DL, ML and Pattern recognition. 
 - 💼 Former Graduate R & D Scientist at UiT.
-- 📑 Author of a paper combining DL and Space Physics TBP in the EGU Copernicus journal.  doi: [https://doi.org/10.5194/egusphere-2025-3070](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3070/)
+- 📑 Author of a paper combining DL and Space Physics TBP in the EGU Copernicus journal. [Link to paper](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3070/)
 - 📩 Contact: kian0902@hotmail.com
 
 

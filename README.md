@@ -1,6 +1,6 @@
 # ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Kian Sartipzadeh
 
-- 🚀 Co-Founder/CTO of [Simplera AS](https://www.simplera.no/).
+- 🚀 Co-Founder/CAIO of [Simplera AS](https://www.simplera.no/).
 - ⚙️ Developing Agentic-AI models for Simplera AS.  
 - 🎓 Graduated Master of Technology in Space Physics from [UiT The Arctic University of Norway](https://en.uit.no/startsida).
 - 🧠 Currently enrolled in the [Master’s program in Artificial Intelligence](https://uit.no/utdanning/program/711597/kunstig_intelligens_sivilingenior_-_master) at UiT The Arctic University of Norway

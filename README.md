@@ -1,4 +1,4 @@
-# Hey, I'm Kian Sartipzadeh <a href="https://www.linkedin.com/in/kian-sartipzadeh-341887278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keyvan sadeghi" height="20" width="30" /></a>
+# Hey, I'm Kian Sartipzadeh <a href="https://www.linkedin.com/in/kian-sartipzadeh-341887278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="30" /></a>
 
 - 🚀 Co-Founder/CAIO of [Simplera AS](https://www.simplera.no/).
 - ⚙️ Developing Agentic-AI models for Simplera AS.  

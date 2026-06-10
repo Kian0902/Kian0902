@@ -7,8 +7,6 @@
 - 🤖 Interested in GenAI, DL, ML and Pattern recognition.
 - 💼 Former Graduate R & D Scientist at UiT.
 - 📑 Author of a paper combining DL and Space Physics TBP in the EGU Copernicus journal. [Link to paper](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3070/)
-- 📩 Contact: Send me a message on LinkedIn <a href="https://www.linkedin.com/in/kian-sartipzadeh-341887278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keyvan sadeghi" height="30" width="40" /></a>
-
 
 ## 🔧 Tech Stack
 
